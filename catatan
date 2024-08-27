@@ -1,0 +1,16 @@
+1.	Apakah siswa yang belajar lebih lama cenderung mendapatkan nilai yang lebih baik?
+Jawab: korelasi: 0,37 cukup berpengaruh maka bisa dikatakan siswa yang belajar lebih lama cenderung mendapatkan nilai yang lebih baik. 
+2.	Bagaimana pengaruh jumlah jam tidur terhadap nilai siswa?
+Jawab: Korelasi: 0,05 sangat lemah, lamanya tidur seorang siswa tidak berpengaruh terhadap nilai akhir. Karena kemungkinan waktu yang ada (selain tidur) digunakan secara produktif (fokus belajar) oleh siswa tersebut.
+3.	Apakah siswa yang aktif dalam kegiatan ekstrakurikuler mendapatkan nilai yang lebih baik?
+Jawab: Siswa yg tidak mengikuti kegiatan ekstrakuliker lebih banyak daripada yang mengikuti. Koefisien regresi positif, siswa yang aktif dalam kegiatan ekstrakurikuler mendapatkan nilai yang lebih baik.
+4.	Apakah siswa yang mengerjakan lebih banyak soal latihan mendapatkan nilai yang lebih tinggi?
+Jawab: nilai korelasi: 0,04. Banyaknya jumlah latihan soal yg dikerjakan oleh siswa (dalam set soal) tidak berpengaruh terhadap nilai akhir siswa. Ini kemungkinan bahwa siswa yg sudah mengerjakan beberapa set soal latihan kurang fit/sehat pada saat mengerjakan soal-soal ujian akhir atau soal latihan sangat berbeda dengan soal ujian akhir.
+5.	Apakah nilai siswa sebelumnya mempengaruhi nilai akhir mereka?
+Jawab: sangat berpengaruh, karena nilai korelasi yang tinggi, menandakan bahwa performa nilai akhir siswa a/d adalah akumulasi atau total dari nilai tugas harian dan UTS siswa.
+6.	Berapa rata-rata nilai siswa di kelas?
+Rata-rata nilai akhir (Performance Index) dari 10.000 siswa tersebut hanya 55,22.
+7.	Bagaimana distribusi nilai di antara siswa dalam dataset ini?
+Jawab:  dari 10.000 siswa, mayoritas siswa memperoleh nilai ujian akhir (Performance Index) rentang 40 - 80.
+8.	Apakah ada batas optimal untuk jam belajar atau tidur yang dapat membantu siswa mencapai performa terbaik?
+Jawab: karena berkorelasi positif maka hubungan searah artinya semakin lama dan mengoptimalkan waktu mereka belajar atau tidur, maka dapat membantu siswa mencapai performa terbaik untuk jam belajar. Dalam dataset, dari visualisasi histogram sebaran untuk lama belajar yaitu mayoritas lama belajar siswa sekitar 2-4 dan 6-8 jam. Namun, ada beberapa siswa yg bisa belajar > 8 jam. Sedangkan untuk lama tidur kebanyakan siswa tidur 8-9 jam per harinya. Tapi, ada beberapa siswa yg tidur hanya 4 jam dalam sehari.
